@@ -7,7 +7,7 @@ chrome_driver_path = "C:\\Users\\rishabhsingh\\Downloads\\chromedriver.exe"
 
 
 lt_username = "rishabhsinghlambdatest"
-lt_access_key = "7f4Xoi2I7A1H7f4Y84emKmZKhE0Cn440Obyy1WGIcud425cWei"
+lt_access_key = "##############"
 
 
 desired_capabilities = {
@@ -15,7 +15,7 @@ desired_capabilities = {
 	"browserVersion": "113.0",
 	"LT:Options": {
 		"username": "rishabhsinghlambdatest",
-		"accessKey": "7f4Xoi2I7A1H7f4Y84emKmZKhE0Cn440Obyy1WGIcud425cWei",
+		"accessKey": "#############",
 		"visual": True,
 		"video": True,
 		"platformName": "Windows 10",
